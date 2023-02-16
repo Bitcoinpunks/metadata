@@ -1,1 +1,5 @@
-{"id":1,"type":" Human","gender":" Male","skinTone":" Dark","count":2,"accessories":" Smile / Mohawk\r","image":"ipfs://bafyreihwqm2ykj7poty6kgcd4sgmpxy2x4qrx3uy5rwemoyuzeoedupdve/metadata.json"}
+{"name":"BitcoinPunk #5","description":"New BitcoinPunk collection", "image":"ipfs://bafybeifvqjnxdzt66zqhuc4oqxqarp7ucv3g7y67z6zyb7wyje7pfq6dgq/5.png","attributes": [
+    {
+      "trait_type": "Hair", 
+      "value": "Half shaved"
+    }]}
