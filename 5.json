@@ -1,1 +1,5 @@
-{"id":5,"name":"BitcoinPunk #5","description":"New BitcoinPunk collection","type":" Human","gender":" Female","skinTone":" Medium","count":3,"accessories":" Purple Eye Shadow / Half Shaved / Earring\r","image":"ipfs://bafybeifvqjnxdzt66zqhuc4oqxqarp7ucv3g7y67z6zyb7wyje7pfq6dgq/5.png"}
+{"name":"BitcoinPunk #5","description":"New BitcoinPunk collection", "image":"ipfs://bafybeifvqjnxdzt66zqhuc4oqxqarp7ucv3g7y67z6zyb7wyje7pfq6dgq/5.png","attributes": [
+    {
+      "trait_type": "Hair", 
+      "value": "Half shaved"
+    }]}
